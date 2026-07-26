@@ -185,7 +185,6 @@ export default function AIChat() {
           </div>
           <div>
             <h2 className="font-semibold text-lg leading-tight">AI Study Assistant</h2>
-            <p className="text-xs text-slate-500 dark:text-slate-400">Powered by Llama 3</p>
           </div>
         </div>
         <div className="flex items-center gap-3">
