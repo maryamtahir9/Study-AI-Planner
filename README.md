@@ -41,7 +41,7 @@ One-click AI tools for specific study needs:
 - **Animations:** Smooth page transitions and component interactions powered by Framer Motion.
 
 ### Live App
-**Link:** : https://study-ai-planner-seven.vercel.app
+**Link:**  https://study-ai-planner-seven.vercel.app
 
 ## 🚀 Tech Stack
 
