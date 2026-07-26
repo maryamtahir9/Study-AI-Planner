@@ -1,0 +1,10 @@
+{
+  "name": "AI Study Guide",
+  "description": "A modern, fully functional AI-powered Study Guide web application.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
