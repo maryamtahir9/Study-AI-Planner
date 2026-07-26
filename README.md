@@ -40,9 +40,6 @@ One-click AI tools for specific study needs:
 - **Responsive:** Mobile-first design that looks great on all screen sizes.
 - **Animations:** Smooth page transitions and component interactions powered by Framer Motion.
 
-## Live App
-**Link: https://study-ai-planner-seven.vercel.app
-
 ## 🚀 Tech Stack
 
 - **Frontend:** React.js, React Router, Tailwind CSS, Framer Motion, Lucide React, React Markdown, React Syntax Highlighter

@@ -42,7 +42,7 @@ async function startServer() {
       const groq = getGroq();
       const stream = await groq.chat.completions.create({
         messages: messages,
-        model: 'llama-3.1-8b-instant',
+        model: 'llama-3.3-70b-versatile',
         stream: true,
       });
 
